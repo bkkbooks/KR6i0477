@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0477/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八大人覺經略解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0672.xml
+    old_id: X37n0672
+hash: sha256:c56e9d1c1adece5cb67e1befbba544b31c9db24f4bdf3458dd7e17cb2c6f0cee

@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6i0477/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0477/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八大人覺經略解
+  identifiers:
+    krp: KR6i0477
+    cbeta: X37n0672
+    cbeta_old_id: X37n0672
+    authorityid: CA0000100
+    json_key: X0672
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0672.xml
+    old_id: X37n0672
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0477_000-X.yaml, hash: 'sha256:c56e9d1c1adece5cb67e1befbba544b31c9db24f4bdf3458dd7e17cb2c6f0cee'}
+  - {seq: 1, filename: KR6i0477_001-X.yaml, hash: 'sha256:733799861b2a364385496a023a90502661ab68c6e938121f180ae7ebc49511db'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0477_000-X.markers.yaml, hash: 'sha256:19eaa57d18876176ed91133d37714af159f8c03c5ac5dfa1bd8f58e442ccdd5c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0477_001-X.markers.yaml, hash: 'sha256:48df72208dfcec92d6a75b112cc9756f5947224139929bdff5f37025a1edd403'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1310
+  label: 八大人覺經略解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 初總標
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-2
+    span:
+    - body
+    - 129
+    - 129
+  label: 二別明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-3
+    span:
+    - body
+    - 129
+    - 129
+  label: 初無常無我覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-4
+    span:
+    - body
+    - 409
+    - 409
+  label: 二常修少欲覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-5
+    span:
+    - body
+    - 482
+    - 482
+  label: 三知足守道覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-6
+    span:
+    - body
+    - 564
+    - 564
+  label: 四常行精進覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-7
+    span:
+    - body
+    - 672
+    - 672
+  label: 五多聞智慧覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-8
+    span:
+    - body
+    - 759
+    - 759
+  label: 六布施平等覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-9
+    span:
+    - body
+    - 865
+    - 865
+  label: 七出家梵行覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-10
+    span:
+    - body
+    - 1005
+    - 1005
+  label: 八大心普濟覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0477_X_001-mulu-11
+    span:
+    - body
+    - 1091
+    - 1091
+  label: 三結歎
+  type: mulu
+  level: 1
+hash: sha256:3df307b4297fac775ee9d2fd2252f1e4151f1835e5fc80feac4e397040a0852f
