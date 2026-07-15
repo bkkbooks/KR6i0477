@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0477/v1
 canonical_location: https://kanripo.org/bkk/KR6i0477/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 八大人覺經略解
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0477_000.yaml, hash: 'sha256:c56e9d1c1adece5cb67e1befbba544b31c9db24f4bdf3458dd7e17cb2c6f0cee'}
-  - {seq: 1, filename: KR6i0477_001.yaml, hash: 'sha256:733799861b2a364385496a023a90502661ab68c6e938121f180ae7ebc49511db'}
+  - {seq: 1, filename: KR6i0477_001.yaml, hash: 'sha256:bb05f67304874302741981b22e5c02583e3f5b15057ed28f41df6a20cfcc6819'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0477_000.markers.yaml, hash: 'sha256:5440ec9f3c76ca459a9255ecfb5a21e331a23a93ef50353a88cc7ed74f078a78'}
-  - {seq: 1, role: markers, filename: assets/KR6i0477_001.markers.yaml, hash: 'sha256:d52a27b92e39a88a60062036245279198a18d2c649c27dce281be1779ab7b626'}
+  - {seq: 1, role: markers, filename: assets/KR6i0477_001.markers.yaml, hash: 'sha256:6d152f3ff2f78e5e593e7619feb941705548932709972a14b162f7ad5339288a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -147,4 +147,7 @@ table_of_contents:
   label: 三結歎
   type: mulu
   level: 1
-hash: sha256:7e7c69f46d4a4297a90de3c2bbf7c581dfb3314ccdb325a134531bd1ec67fef7
+hash: sha256:2d53e1e8e96568247f195a45f9867981da8c65edd529811713647afbda12c36e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
